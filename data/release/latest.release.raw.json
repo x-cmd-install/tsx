@@ -66,7 +66,7 @@
   "releases_url": "https://api.github.com/repos/privatenumber/tsx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/privatenumber/tsx/deployments",
   "created_at": "2022-03-15T20:15:42Z",
-  "updated_at": "2026-10-19T02:00:28Z",
+  "updated_at": "2026-10-19T17:41:01Z",
   "pushed_at": "2026-09-25T03:45:36Z",
   "git_url": "git://github.com/privatenumber/tsx.git",
   "ssh_url": "git@github.com:privatenumber/tsx.git",
@@ -74,8 +74,8 @@
   "svn_url": "https://github.com/privatenumber/tsx",
   "homepage": "https://tsx.hirok.io",
   "size": 3043,
-  "stargazers_count": 12166,
-  "watchers_count": 12166,
+  "stargazers_count": 12167,
+  "watchers_count": 12167,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -83,7 +83,7 @@
   "has_wiki": false,
   "has_pages": false,
   "has_discussions": false,
-  "forks_count": 365,
+  "forks_count": 397,
   "mirror_url": null,
   "archived": false,
   "disabled": false,
@@ -111,9 +111,9 @@
     "watch"
   ],
   "visibility": "public",
-  "forks": 365,
+  "forks": 397,
   "open_issues": 125,
-  "watchers": 12166,
+  "watchers": 12167,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -123,6 +123,6 @@
     "pull": false
   },
   "temp_clone_token": "",
-  "network_count": 365,
+  "network_count": 397,
   "subscribers_count": 21
 }
