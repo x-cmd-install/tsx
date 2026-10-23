@@ -1,0 +1,50 @@
+- repo: macports
+  srcname: devel/tsx
+  binname: tsx
+  visiblename: tsx
+  version: 4.20.6
+  origversion: null
+  status: outdated
+  summary: The easiest way to run TypeScript in Node.js
+  maintainers:
+    - blair@macports
+    - blair@github
+  licenses:
+    - MIT
+  categories:
+    - devel
+- repo: nix_stable_25_11
+  srcname: tsx
+  visiblename: tsx
+  version: 4.19.3
+  origversion: null
+  status: outdated
+  summary: 'TypeScript Execute (tsx): The easiest way to run TypeScript in Node.js'
+  maintainers:
+    - stevan@dedovic.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: tsx
+  visiblename: tsx
+  version: 4.21.0
+  origversion: null
+  status: outdated
+  summary: 'TypeScript Execute (tsx): The easiest way to run TypeScript in Node.js'
+  maintainers:
+    - stevan@dedovic.com
+    - higherorderlogic@github
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: tsx
+  visiblename: tsx
+  version: 4.23.12
+  origversion: null
+  status: newest
+  summary: 'TypeScript Execute (tsx): The easiest way to run TypeScript in Node.js'
+  maintainers:
+    - stevan@dedovic.com
+    - higherorderlogic@github
+  licenses:
+    - MIT
