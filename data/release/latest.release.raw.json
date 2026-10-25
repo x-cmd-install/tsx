@@ -66,7 +66,7 @@
   "releases_url": "https://api.github.com/repos/privatenumber/tsx/releases{/id}",
   "deployments_url": "https://api.github.com/repos/privatenumber/tsx/deployments",
   "created_at": "2022-03-15T20:15:42Z",
-  "updated_at": "2026-10-23T20:44:42Z",
+  "updated_at": "2026-10-24T22:48:53Z",
   "pushed_at": "2026-09-25T03:45:36Z",
   "git_url": "git://github.com/privatenumber/tsx.git",
   "ssh_url": "git@github.com:privatenumber/tsx.git",
@@ -74,8 +74,8 @@
   "svn_url": "https://github.com/privatenumber/tsx",
   "homepage": "https://tsx.hirok.io",
   "size": 3043,
-  "stargazers_count": 12176,
-  "watchers_count": 12176,
+  "stargazers_count": 12177,
+  "watchers_count": 12177,
   "language": "TypeScript",
   "has_issues": true,
   "has_projects": false,
@@ -87,7 +87,7 @@
   "mirror_url": null,
   "archived": false,
   "disabled": false,
-  "open_issues_count": 125,
+  "open_issues_count": 126,
   "license": {
     "key": "mit",
     "name": "MIT License",
@@ -112,8 +112,8 @@
   ],
   "visibility": "public",
   "forks": 277,
-  "open_issues": 125,
-  "watchers": 12176,
+  "open_issues": 126,
+  "watchers": 12177,
   "default_branch": "master",
   "permissions": {
     "admin": false,
@@ -124,5 +124,5 @@
   },
   "temp_clone_token": "",
   "network_count": 277,
-  "subscribers_count": 21
+  "subscribers_count": 19
 }
